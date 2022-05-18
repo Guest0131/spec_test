@@ -264,7 +264,7 @@ body{background-color: #F8F8F8;font-family:'TT Lakes';}
 }
 
 
-@media (min-width: 768px) and (max-width: 1900px){
+@media (min-width: 768px) and (max-width: 1920px){
   .header__right{
     width:300px;
   }
